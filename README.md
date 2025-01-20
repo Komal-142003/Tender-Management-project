@@ -1,0 +1,1 @@
+Our project makes it easy for vendors to find tender details online and submit their tenders. It reduces costs for things like advertising, document handling, and getting results. The system saves time and ensures the tender evaluation is finished on time. It also helps compare bids from different vendors and approve the best ones quickly.
